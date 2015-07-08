@@ -22,7 +22,9 @@ It's free, simple and easy to use (who have little knowledge of terminal).
 
 * Make sure you have `node js` installed on your PC or Mac. Please check if `node js` is installed or not before moving ahead. Copy and paste this command in your terminal and it'll show you the currently installed node version on your machine.
 
-`node -v`
+```js
+node -v
+```
 
 ![Checking Node Version](http://i.imgur.com/uxsKJs5.png "Checking Node Version")
 
@@ -45,7 +47,7 @@ It's free, simple and easy to use (who have little knowledge of terminal).
 
 Flowkit will handle everything itself and you can just focus on writing beautiful code.
 
-Please checkout these useful links that makes Flowkit possible.
+Please checkout these useful links that made Flowkit possible.
 
 * [Initializr](http://www.initializr.com)
 * [Gulp](http://gulpjs.com)
